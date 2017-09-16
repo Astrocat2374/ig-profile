@@ -1,0 +1,20 @@
+body{
+	background-color: white;
+}
+#container{
+	width:1080px;
+	text-align: center;
+	background-color: white;
+	border:3px solid #DDDDDD;
+}
+#top-bar{
+	height:145px; 
+	background: transparent url("images/top-bar.png");
+}
+#follower-count{
+	height: 355px;
+	background: transparent url("images/follower-count.png");
+}
+#profile-picture{
+	shape-image-threshold: 
+}
